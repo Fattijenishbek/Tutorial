@@ -29,4 +29,12 @@
 
 ![Screenshot from 2020-12-23 07-49-42](https://user-images.githubusercontent.com/57977808/102949907-9e639480-44f3-11eb-856f-78003f366590.png)
 
-* All app is about University
+* All app is about University 
+* Code( clean and valid) 
+![Screenshot from 2020-12-23 08-11-08](https://user-images.githubusercontent.com/57977808/102951186-7295de00-44f6-11eb-8be3-e6a7e2949bea.png)
+
+* Performence
+![Screenshot from 2020-12-23 08-13-57](https://user-images.githubusercontent.com/57977808/102951349-dae4bf80-44f6-11eb-8464-dcb955416230.png)
+![Screenshot from 2020-12-23 08-14-06](https://user-images.githubusercontent.com/57977808/102951404-fbad1500-44f6-11eb-9a71-2a713eac10c0.png)
+
+
